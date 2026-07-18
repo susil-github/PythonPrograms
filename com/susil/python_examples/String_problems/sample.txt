@@ -1,0 +1,3 @@
+2025-01-01 INFO User Logged In
+2025-01-01 ERROR DB Connection Failed
+2025-01-01 INFO File Processed
